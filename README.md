@@ -1,7 +1,7 @@
 # Flask Web App
 Web authentication and database tutorial.
 
-## Setup & Installtion
+## Installtion
 
 Make sure you have the latest version of Python installed.
 
@@ -10,6 +10,7 @@ Make sure you have the latest version of Python installed.
 + Flask-SQLAlchemy
 + flask-login
 
+## Cloning this git
 ```bash
 git clone <repo-url>
 ```
