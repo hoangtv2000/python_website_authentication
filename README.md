@@ -1,5 +1,5 @@
 # Flask Web App
-Web authentication and database tutorial.
+In this project, we build a toy example of accounts authentication website. The website provides a private note for each account.
 
 ## Installtion
 
