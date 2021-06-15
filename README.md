@@ -5,12 +5,13 @@ Web authentication and database tutorial.
 
 Make sure you have the latest version of Python installed.
 
-```bash
-git clone <repo-url>
-```
+**And installed**:
++ flask
++ Flask-SQLAlchemy
++ flask-login
 
 ```bash
-pip install -r requirements.txt
+git clone <repo-url>
 ```
 
 ## Running The App
